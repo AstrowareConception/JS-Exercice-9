@@ -1,5 +1,5 @@
 # Objectif
-Afficher un bouton "Lire plus" permettant d'afficher un contenu d'abord masqué.
+_Afficher un bouton "Lire plus" permettant d'afficher un contenu d'abord masqué._
 
 # Enoncé
 1) Créer un document HTML contenant une première div qui contiendra la version courte du texte, dans notre cas simplement "Lorem ipsum ..."
