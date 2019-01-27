@@ -9,6 +9,6 @@ Afficher un bouton "Lire plus" permettant d'afficher un contenu d'abord masqué.
 
 Voir les exemples d'utilisation suivants :
 
-[Avant de cliquer(resultat1.png)
+[Avant de cliquer](resultat1.png)
 
 [Après avoir cliqué](resultat2.png)
